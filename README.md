@@ -1,4 +1,4 @@
-# SNP dataset associated with Dimens et al. 2019 "A genomic assessment of movement and gene flow around the South Florida vicariance zone in the migratory coastal blacknose shark, Carcharhinus acronotus"
+## SNP dataset associated with Dimens et al. 2019 "A genomic assessment of movement and gene flow around the South Florida vicariance zone in the migratory coastal blacknose shark, Carcharhinus acronotus"
 
 #### acro_assignment_allloci_stru_input
 Input used for Structure analysis
