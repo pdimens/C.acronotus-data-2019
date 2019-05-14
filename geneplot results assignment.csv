@@ -1,0 +1,212 @@
+﻿id,pop,Ln Likelihood of Atlantic Membership,Ln Likelihood of Gulf of Mexico Membership,nloc
+sca_001,South Carolina,-473.17,-501.25,2212
+sca_002,South Carolina,-445.74,-466.61,2213
+sca_003,South Carolina,-456.21,-475.9,2213
+sca_004,South Carolina,-471.46,-487.45,2212
+sca_005,South Carolina,-440.32,-460.19,2213
+sca_006,South Carolina,-476.65,-498.24,2213
+sca_007,South Carolina,-443.43,-464.42,2213
+sca_008,South Carolina,-458.18,-475.45,2213
+sca_009,South Carolina,-451.98,-478.96,2213
+sca_010,South Carolina,-448.05,-463.24,2213
+sca_011,South Carolina,-431.46,-442.71,2212
+sca_012,South Carolina,-457.43,-479.82,2213
+sca_013,South Carolina,-473.12,-492.41,2212
+sca_015,South Carolina,-456.36,-462.78,2211
+sca_016,South Carolina,-437.21,-443.58,2211
+sca_017,South Carolina,-457.41,-475.36,2029
+sca_018,South Carolina,-442.35,-461.72,2213
+sca_019,South Carolina,-453.59,-475.12,2212
+sca_020,South Carolina,-439.05,-466.33,2212
+sca_021,South Carolina,-450.07,-467.65,2212
+sca_022,South Carolina,-451.42,-473.55,2213
+sca_023,South Carolina,-439.9,-463.37,2210
+sca_024,South Carolina,-448.8,-463.87,2191
+sca_027,South Carolina,-467.25,-496.35,2211
+sca_029,South Carolina,-439.42,-457.25,2204
+sca_030,South Carolina,-423.85,-451.54,2212
+sca_031,South Carolina,-444.35,-466.51,2212
+sca_032,South Carolina,-460.21,-479.17,2212
+gaa_001,Georgia,-444.08,-457.02,2212
+gaa_002,Georgia,-448.99,-474.53,2212
+gaa_004,Georgia,-450.88,-470.92,2211
+gaa_005,Georgia,-475.12,-491.82,2213
+gaa_006,Georgia,-471.03,-484.75,2212
+gaa_007,Georgia,-461.38,-483,2183
+gaa_008,Georgia,-429.77,-447.74,2213
+gaa_009,Georgia,-440.01,-458.01,2213
+gaa_010,Georgia,-457.74,-484.15,2211
+gaa_012,Georgia,-464.89,-488.26,2139
+gaa_013,Georgia,-437.2,-460.83,2213
+gaa_014,Georgia,-443.52,-465.53,2212
+gaa_015,Georgia,-471.29,-492.45,2210
+gaa_016,Georgia,-457.38,-477.23,2213
+gaa_018,Georgia,-455.26,-477.12,2213
+gaa_019,Georgia,-451.34,-472.33,2211
+gaa_020,Georgia,-445.39,-456.5,2209
+gaa_021,Georgia,-437.02,-459.99,2212
+gaa_022,Georgia,-454.44,-471.59,2213
+gaa_023,Georgia,-449.87,-464.07,2211
+gaa_024,Georgia,-471.06,-491.6,2213
+gaa_026,Georgia,-441.05,-461.36,2213
+gaa_027,Georgia,-440.1,-456.46,2212
+gaa_028,Georgia,-480.5,-507.37,2212
+gaa_029,Georgia,-477.45,-498.04,2212
+gaa_031,Georgia,-439.89,-450.69,2212
+gaa_032,Georgia,-439.43,-464.45,2212
+gaa_033,Georgia,-459.3,-466.93,2204
+gaa_034,Georgia,-464.99,-503.03,2213
+gaa_035,Georgia,-459.83,-481.61,1926
+cca_001,Cape Canaveral,-448.85,-470.72,2089
+cca_002,Cape Canaveral,-440.61,-466.05,2119
+cca_003,Cape Canaveral,-412.22,-431.41,2113
+cca_005,Cape Canaveral,-448.45,-451.45,2213
+cca_007,Cape Canaveral,-461.07,-485.58,2211
+cca_008,Cape Canaveral,-469.34,-463.81,2212
+cca_009,Cape Canaveral,-466.44,-486.07,2211
+cca_010,Cape Canaveral,-457.68,-479.39,2212
+cca_012,Cape Canaveral,-449.73,-469.23,2212
+cca_013,Cape Canaveral,-453.41,-475.26,2211
+cca_014,Cape Canaveral,-462.05,-485.07,2213
+cca_015,Cape Canaveral,-441.72,-460.09,2030
+cca_016,Cape Canaveral,-438,-448.8,2205
+cca_017,Cape Canaveral,-439.88,-463.55,2071
+cca_018,Cape Canaveral,-454.18,-478.28,2213
+cca_019,Cape Canaveral,-461.53,-470.35,2212
+cca_020,Cape Canaveral,-456.74,-479.23,2212
+cca_021,Cape Canaveral,-465.76,-486.26,2213
+cca_022,Cape Canaveral,-429.34,-445.2,2213
+cca_023,Cape Canaveral,-433.16,-452.8,2212
+cca_024,Cape Canaveral,-487.03,-514.6,2210
+key_001,Florida Keys,-454.11,-449.71,2129
+key_002,Florida Keys,-476.99,-472.19,2213
+key_003,Florida Keys,-476.46,-466.82,2213
+key_004,Florida Keys,-497.48,-495.58,2212
+key_006,Florida Keys,-458.14,-463.74,2212
+key_007,Florida Keys,-459.31,-458.63,2176
+key_008,Florida Keys,-476.61,-464.22,2213
+key_010,Florida Keys,-465.16,-460.33,2213
+key_011,Florida Keys,-473.11,-467.36,2213
+key_012,Florida Keys,-495.36,-489.25,2213
+key_013,Florida Keys,-471.36,-469.15,2212
+key_014,Florida Keys,-473.33,-464.34,2158
+key_015,Florida Keys,-475.5,-472.18,2212
+key_016,Florida Keys,-475.56,-473.06,2204
+key_017,Florida Keys,-467.31,-455.58,2211
+key_019,Florida Keys,-510.67,-499.26,2211
+key_020,Florida Keys,-465.59,-462.89,2213
+key_021,Florida Keys,-482.28,-481.61,1846
+key_022,Florida Keys,-440.64,-441.44,2209
+key_023,Florida Keys,-438.14,-439.43,2213
+key_025,Florida Keys,-490.74,-482.58,2208
+key_026,Florida Keys,-485.24,-484.16,2213
+key_027,Florida Keys,-477.33,-470.84,2206
+key_028,Florida Keys,-488.49,-483.55,2211
+key_029,Florida Keys,-475.66,-474.61,2211
+key_030,Florida Keys,-491.58,-484.4,2189
+key_031,Florida Keys,-450.63,-443.26,2211
+key_032,Florida Keys,-459.8,-460.88,2209
+key_033,Florida Keys,-465.9,-468.79,2205
+key_034,Florida Keys,-466.94,-468.09,2207
+key_035,Florida Keys,-479.29,-470.26,2213
+key_036,Florida Keys,-452.33,-450.02,2211
+key_037,Florida Keys,-473.66,-470.82,2211
+key_038,Florida Keys,-494.42,-489.38,2210
+key_039,Florida Keys,-486.07,-483.85,2179
+key_040,Florida Keys,-476.41,-469.48,2212
+key_041,Florida Keys,-454.98,-464.12,2012
+key_043,Florida Keys,-480.67,-474.59,2213
+key_044,Florida Keys,-452.82,-451.56,2212
+key_045,Florida Keys,-474.86,-471.23,2212
+key_046,Florida Keys,-467.99,-462.11,2119
+key_047,Florida Keys,-472.71,-472.84,2211
+key_048,Florida Keys,-494.14,-489.56,2213
+key_049,Florida Keys,-473.56,-467.06,2209
+key_050,Florida Keys,-483.67,-475.2,2213
+key_051,Florida Keys,-463.32,-458.2,2210
+key_052,Florida Keys,-468.08,-469.63,2212
+key_053,Florida Keys,-511.98,-500.49,2213
+key_054,Florida Keys,-461.43,-458.22,2213
+key_055,Florida Keys,-485,-479.68,2213
+key_062,Florida Keys,-472.95,-470.7,2212
+key_063,Florida Keys,-475.86,-468.67,2212
+key_064,Florida Keys,-501.48,-499.21,2210
+key_065,Florida Keys,-473.08,-469.33,2212
+key_067,Florida Keys,-495.33,-483.35,2213
+key_068,Florida Keys,-483.63,-477.29,2168
+key_072,Florida Keys,-464.52,-460.64,2201
+key_073,Florida Keys,-471.71,-464.77,2208
+key_076,Florida Keys,-475.93,-473.99,2196
+key_078,Florida Keys,-444.18,-440.86,2129
+key_079,Florida Keys,-453.26,-449.42,2148
+key_080,Florida Keys,-456.91,-452.93,2211
+key_082,Florida Keys,-490.39,-484.32,2212
+key_083,Florida Keys,-476.02,-474.4,2203
+seg_001,South-east Gulf,-450.08,-435.89,2153
+seg_003,South-east Gulf,-478.42,-458.14,2213
+seg_009,South-east Gulf,-462.29,-449.48,2211
+seg_010,South-east Gulf,-478.35,-457.07,1809
+seg_011,South-east Gulf,-464.71,-445.03,2118
+seg_012,South-east Gulf,-468.74,-454.74,1602
+seg_014,South-east Gulf,-451.44,-437.77,2211
+seg_015,South-east Gulf,-475.21,-453.87,2209
+seg_016,South-east Gulf,-466.24,-447.39,2213
+seg_018,South-east Gulf,-480.13,-461.49,2213
+seg_021,South-east Gulf,-474.08,-452.5,2213
+seg_023,South-east Gulf,-489.7,-468.63,2212
+seg_024,South-east Gulf,-486.18,-465.35,2213
+seg_025,South-east Gulf,-466.65,-447.78,2213
+seg_026,South-east Gulf,-461.9,-444.9,2213
+seg_027,South-east Gulf,-469.06,-449.4,2211
+seg_028,South-east Gulf,-461.79,-445.37,2188
+seg_029,South-east Gulf,-479.72,-462.79,2213
+seg_030,South-east Gulf,-467.38,-451.55,2212
+seg_031,South-east Gulf,-476.09,-451.14,2212
+meg_001,Mid-east Gulf,-471.32,-449.75,2212
+meg_002,Mid-east Gulf,-454.57,-432.54,2212
+meg_003,Mid-east Gulf,-471.52,-452.87,2212
+meg_005,Mid-east Gulf,-484.63,-465.13,2212
+meg_006,Mid-east Gulf,-482.15,-463.73,2208
+meg_007,Mid-east Gulf,-467.89,-458.49,2190
+meg_008,Mid-east Gulf,-481.84,-456.12,2213
+meg_009,Mid-east Gulf,-480.89,-465.63,2204
+meg_010,Mid-east Gulf,-458.49,-434.1,2212
+meg_011,Mid-east Gulf,-464.04,-442.7,2213
+meg_012,Mid-east Gulf,-461.2,-445.05,2211
+meg_013,Mid-east Gulf,-485.85,-461.31,2212
+meg_014,Mid-east Gulf,-465.35,-453.5,2211
+meg_015,Mid-east Gulf,-495.05,-468.64,2213
+meg_016,Mid-east Gulf,-472.41,-457.91,2213
+meg_017,Mid-east Gulf,-499.45,-473.83,2212
+meg_018,Mid-east Gulf,-473,-453.56,2213
+meg_019,Mid-east Gulf,-463.56,-440.78,2173
+meg_020,Mid-east Gulf,-480.91,-453.24,2211
+meg_021,Mid-east Gulf,-497.07,-464.3,2210
+meg_022,Mid-east Gulf,-501.11,-475.21,2213
+meg_023,Mid-east Gulf,-487.7,-468.24,2213
+meg_024,Mid-east Gulf,-468.42,-442.54,2208
+meg_025,Mid-east Gulf,-467.16,-446.48,2213
+meg_026,Mid-east Gulf,-450.66,-430.85,2213
+meg_028,Mid-east Gulf,-452.91,-442.49,2213
+meg_029,Mid-east Gulf,-473.24,-451.12,2213
+meg_030,Mid-east Gulf,-485.46,-460.65,2212
+neg_001,North-east Gulf,-482.62,-457.13,2212
+neg_002,North-east Gulf,-479.1,-455.78,2213
+neg_005,North-east Gulf,-482.84,-461.75,2209
+neg_006,North-east Gulf,-482.12,-463.5,2212
+neg_007,North-east Gulf,-469.58,-461.46,2212
+neg_008,North-east Gulf,-473.92,-454.46,2213
+neg_010,North-east Gulf,-482,-461.45,2213
+neg_011,North-east Gulf,-463.66,-445.24,2208
+neg_012,North-east Gulf,-465.26,-444.81,2213
+neg_014,North-east Gulf,-473.93,-453.86,2213
+neg_021,North-east Gulf,-472.41,-450.72,2213
+neg_022,North-east Gulf,-470.42,-455.33,1771
+neg_024,North-east Gulf,-475.14,-455.43,2203
+neg_025,North-east Gulf,-488.68,-469.73,2213
+neg_026,North-east Gulf,-482.73,-462.64,2212
+neg_027,North-east Gulf,-445.26,-433.61,2213
+neg_028,North-east Gulf,-503.59,-482.98,2213
+neg_029,North-east Gulf,-468.84,-462.88,2212
+neg_030,North-east Gulf,-477.66,-460.19,2213
+neg_032,North-east Gulf,-471.67,-456.22,2205
