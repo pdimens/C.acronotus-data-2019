@@ -22,7 +22,7 @@ Python code used to generate the interactive variant to Figure 2 (Structure plot
 R code used for K-means clustering and DAPC
 
 #### acronotus all metadata.txt
-
+Catch data associated with the individuals used in the study
 
 #### reference.individuals
 List of individuals used for reference assembly creation
